@@ -1,0 +1,8 @@
+ex_pf_1_tetris_draw.Ejemplo4modi$1
+ex_pf_1_tetris_draw.Ejemplo4modi$2
+ex_pf_1_tetris_draw.Ejemplo4modi$3
+ex_pf_1_tetris_draw.Ejemplo4modi$4
+ex_pf_1_tetris_draw.Ejemplo4modi$5
+ex_pf_1_tetris_draw.Ejemplo4modi
+ex_pf_1_tetris_draw.Ejemplo4modi$6
+ex_pf_1_tetris_draw.Ejemplo4modi$DrawCanvas

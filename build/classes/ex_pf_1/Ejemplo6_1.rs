@@ -1,0 +1,4 @@
+ex_pf_1_tetris_draw.Ejemplo6_1$1
+ex_pf_1_tetris_draw.Ejemplo6_1$DrawCanvas
+ex_pf_1_tetris_draw.Ejemplo6_1$2
+ex_pf_1_tetris_draw.Ejemplo6_1
